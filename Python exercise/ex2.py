@@ -1,3 +1,6 @@
+# Enter the user name and output the name in upper case
+# Author Jerry Huang
+
 # Prompt the user for their name
 name = input("Please enter your name: ")
 
